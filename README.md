@@ -1,6 +1,6 @@
-# [SD Data Lab Intranet Page]
+# SD Data Lab Intranet Page
 
-## About
+## Source Code
 
 I used Start Bootstrap, an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means can be used for any purpose, even for commercial projects.
 
