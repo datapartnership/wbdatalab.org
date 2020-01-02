@@ -41,6 +41,18 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.round{
+  border-radius: 25px;
+  border: 2px solid #1abc9c;
+  padding: 10px,10px, 10px, 10px;
+  width: 500px;
+  height: 45px;
+  margin: auto;
+  text-align: center;
+}
+
+
+
 *,
 *::before,
 *::after {
