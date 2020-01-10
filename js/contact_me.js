@@ -10,7 +10,7 @@ $(function() {
       // get values from FORM
       var name = $("input#name").val();
       var email = $("input#email").val();
-      var phone = $("input#phone").val();
+      var interests = $("input#interests").val();
       var message = $("textarea#message").val();
       var firstName = name; // For Success/Failure Message
       // Check for white space in name for Success/Fail message
@@ -24,7 +24,7 @@ $(function() {
         type: "POST",
         data: {
           name: name,
-          phone: phone,
+          interests: interests,
           email: email,
           message: message
         },
