@@ -1,4 +1,4 @@
-# Sustainable Development Data Lab Intranet Page
+# WB Data Lab Intranet Page
 
 ## About
 This single-page website provides information about the SD Data Lab Community of Practice activities. 
