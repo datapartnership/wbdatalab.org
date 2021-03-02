@@ -1,0 +1,117 @@
+html,
+body {
+  width: 100vw;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $blue;
+  box-sizing: border-box;
+  color: $white;
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: space-around;
+  line-height: 1.5;
+  margin: 0;
+  min-height: 100vh;
+  padding: 0;
+  text-align: left;
+  overflow-x: hidden;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+// Bug fix for li's that get a list-style of none.
+ul li::before {
+  content: "\200B";
+}
+
+li {
+  list-style: none;
+}
+
+.button {
+  background-color: #fff;
+  border-color: #dbdbdb;
+  border-width: 1px;
+  color: #363636;
+  cursor: pointer;
+  justify-content: center;
+  padding: calc(0.5em - 1px) 1rem;
+  text-align: center;
+  white-space: nowrap;
+}
+
+// Styling for Font Awesome icons.
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  top: 0.15rem;
+  width: 1.15rem;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+.footer,
+.navbar {
+  background-color: $white;
+  color: $blue;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1090px;
+  }
+}
+
+@media (min-width: 1500px) {
+  .container {
+    max-width: 1269px;
+  }
+}

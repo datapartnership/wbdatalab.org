@@ -1,0 +1,110 @@
+.data-fellows {
+  background-color: $light-gray;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .data-fellows-hero {
+    align-items: center;
+    display: flex;
+    margin-bottom: 5rem;
+  }
+
+  .info-container {
+    width: 100%;
+
+    .sub-header {
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      max-width: 600px;
+    }
+
+    p {
+      color: $dark-gray;
+      font-size: 1.4rem;
+      line-height: 1.9rem;
+      margin: 0;
+      margin-bottom: 1.5rem;
+      width: 80%;
+    }
+  }
+
+  .data-fellows-badge {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  h1,
+  h2 {
+    margin: 0;
+  }
+
+  h1 {
+    color: $dark-green;
+    font-size: 3rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+  }
+}
+
+.lab-leads-directory {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: $blue;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-top: 2.5rem;
+}
+
+iframe {
+  margin: 1rem 0 3.5rem;
+  min-height: 500px;
+  width: 100%;
+}
+
+@media (max-width: 1200px) {
+  .data-fellows {
+    .data-fellows-hero {
+      padding-top: 2.5rem;
+
+      .info-container {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .data-fellows-description {
+        font-size: 1.2rem;
+      }
+
+      .data-fellows-badge {
+        max-width: 300px;
+      }
+    }
+  }
+}
+
+@media (max-width: 993px) {
+  .data-fellows {
+    .data-fellows-hero {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .data-fellows {
+    .info-container {
+      flex-direction: column;
+
+      .data-fellows-description {
+        margin-bottom: 3rem;
+      }
+    }
+  }
+}
