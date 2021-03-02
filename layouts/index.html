@@ -1,0 +1,21 @@
+{{- define "main" -}}
+	<main class="main">
+		{{- block "header" . -}}
+		{{- end -}}
+
+		{{- block "most-recent" . -}}
+		{{- end -}}
+		
+		{{- block "section-cards" . -}}
+		{{- end -}}
+
+		{{- block "directory" . -}}
+		{{- end -}}
+
+		{{- block "workshops" . -}}
+		{{- end -}}
+
+		{{ block "lab-reports" . }}
+		{{- end -}}
+	</main>
+{{- end -}}

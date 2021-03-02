@@ -1,0 +1,11 @@
+section = "existing-data"
+short_description = "WB-managed data search portals"
+title = "Catalogues"
+[[teams]]
+description = "Purchased data & subscriptions"
+name = "WBG Library"
+sub_section = "catalogues"
+[[teams]]
+description = "Clean, survey, & geospatial data"
+name = "Development Data Hub"
+sub_section = "catalogues"

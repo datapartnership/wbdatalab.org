@@ -1,0 +1,20 @@
+title = "Remote Sensing"
+short_description = "Remote Sensing Data Procurement; Drone Pilots"
+
+
+[[teams]]
+name = "GFDRR"
+description = "Remote sensing and drone application"
+sub_section = "remote-sensing" 
+
+
+[[teams]]
+name = "GOST"
+description = "Simple chart generation"
+sub_section = "remote-sensing" 
+
+
+[[teams]]
+	name = "Transport"
+	description = "Machine Learning, Mobile Analytics lead Data"
+	sub_section = "remote-sensing"

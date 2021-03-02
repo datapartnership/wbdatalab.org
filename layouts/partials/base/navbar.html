@@ -1,0 +1,20 @@
+<nav id="mainNav" class="navbar" role="navigation" aria-label="main navigation">
+	<div class="nav-container">
+		<div class="mobile-layout">
+				<a class="navbar-item" href="{{- .Site.BaseURL -}}"> 
+			  		<img id="top"class="wb-logo" src="{{- .Site.BaseURL -}}/img/shared/world-bank-data-lab-logo.png" alt="{{- .Site.Title -}}">
+				</a>
+			<div class="navbar-end navbar-menu">
+				<div class="nav-links">
+					<a href="{{- .Site.BaseURL -}}{{- .Site.Params.DataResourcesLink -}}">{{- .Site.Params.DataResourcesLinkTitle -}}</a> 
+					<a href="{{- .Site.BaseURL -}}#external-collaborators">{{ .Site.Params.ExternalPartnershipsLinkTitle }}</a> 
+					<a href="{{- .Site.BaseURL -}}#workshops-and-clinics-table">{{ .Site.Params.DigitalLiteracyLinkTitle }}</a> 
+				</div>
+			</div>
+		</div>
+		<button class="burger-menu" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+		aria-label="Toggle navigation">
+		<span aria-hidden="true" class="bars"></span>
+	</button>
+	</div>
+</nav>

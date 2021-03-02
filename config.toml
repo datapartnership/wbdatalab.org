@@ -1,0 +1,41 @@
+baseURL = ""
+languageCode = "en-us"
+title = "World Bank Data Lab"
+assetDir = "static/assets"
+
+[params]
+	dataResourcesLinkTitle = "Find WB Data Resources"
+	dataResourcesLink = "/data-resources-directory"
+
+	externalPartnershipsLinkTitle = "Find External Collaborators"
+
+	dataPartnershipsLinkTitle = "Data Partnerships"
+	dataPartnershipsLink = "https://datapartnership.org"
+
+	digitalLiteracyLinkTitle = "Event & Workshop Materials"
+
+	workshopsSectionLabel = "Workshops And Clinics"
+	workshopsLink = "/workshops-and-clinics"
+
+	dataDirectoryLabel = "Find World Bank Data Resources"
+		
+	dataDirectoryPageLabel = "WB Data Directory"
+
+	dataLeadsLabel = "Data Lab Leads Network"	
+	dataLeadsLink = "/data-leads"
+
+	dataCorpsLabel = "Data Corps (Planned)"
+	dataCorpsLink = "/data-corps"
+
+	universityDataFellowsLabel = "University Data Fellows"	
+	universityDataFellowsLink = "/university-data-fellows"
+
+	skillBadgesLabel = "Skill badges (Planned)"
+	skillBadgesLink	= "/skill-badges"
+[module]
+	[hugoVersion]
+	extended = true
+
+[taxonomies]
+	workshop_types = "workshop_types"
+	teams = "teams"
