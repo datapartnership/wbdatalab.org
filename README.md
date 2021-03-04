@@ -30,7 +30,7 @@ The workflow is as follows:
         * `/base/`: Footer / header / navbar used across the site.
         * `/blocks/`:  Section cards for the front page, workshops listing, lab reports listing, directory, etc.
         * `/list-partials/`:  Workshops lists page, other list pages.
-        * `/single-pages/`:
+        * `/single-pages/`: Single pages (not linked ATM).
 
 
 * `/static/`
