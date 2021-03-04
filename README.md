@@ -32,7 +32,7 @@ The workflow is as follows:
         * `/list-partials/`:  Workshops lists page, other list pages.
         * `/single-pages/`: Single pages (not linked ATM).
 
-
+    
 * `/static/`
     * Contains everything that will be exported to the `/public/` folder;  Includes JS, SCSS and images.
 * `config.toml`
