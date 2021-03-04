@@ -15,33 +15,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/university-data-fellows
-  label: University data fellows
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/skill-badges
-  label: Skill badges
-  create: all
-  match: "**/*"
-- type: directory
   path: content/lab-reports
   label: Lab reports
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/data-resources-directory
-  label: Data resources directory
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/data-leads
-  label: Data leads
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/data-corps
-  label: Data corps
   create: all
   match: "**/*"
 upload_dir: static/uploads
