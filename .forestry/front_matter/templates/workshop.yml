@@ -23,3 +23,21 @@ fields:
 - type: textarea
   name: Image_path
   label: Image_path
+- name: Extra_link_1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Extra Link 1
+- name: Extra_link_2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Extra Link 2
