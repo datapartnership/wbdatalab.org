@@ -41,3 +41,5 @@ fields:
     schema:
       format: markdown
   label: Extra Link 2
+pages:
+- content/workshops-and-clinics/hello-world.md
