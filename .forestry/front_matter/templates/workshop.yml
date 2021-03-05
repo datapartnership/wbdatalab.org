@@ -1,0 +1,25 @@
+---
+label: Workshop
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: workshop_types
+  label: workshop_types
+- type: datetime
+  name: scheduled_date
+  label: scheduled_date
+- type: textarea
+  name: Video_path
+  label: Video_path
+- type: textarea
+  name: Slides_path
+  label: Slides_path
+- type: textarea
+  name: Image_path
+  label: Image_path
