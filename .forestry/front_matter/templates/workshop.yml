@@ -41,5 +41,3 @@ fields:
     schema:
       format: markdown
   label: Extra Link 2
-pages:
-- content/workshops-and-clinics/test-post.md
