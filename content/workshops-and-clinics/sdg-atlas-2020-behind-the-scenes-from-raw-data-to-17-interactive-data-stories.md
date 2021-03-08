@@ -5,7 +5,7 @@ Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EVGLNu4JhqhIuhO6oaV-1E8BAIptEfe4qC0RcjE7awQVbQ?e=c1hQ72"
 Video_path = ""
 date = 2021-02-25T05:00:00Z
-scheduled_date = 2001-02-25T05:00:00Z
+scheduled_date = 2021-02-25T05:00:00Z
 title = "SDG Atlas 2020 Behind-the-Scenes – From Raw Data to 17 Interactive Data Stories"
 workshop_types = ["Workshops"]
 
