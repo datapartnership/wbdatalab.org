@@ -8,7 +8,7 @@
 ## Running Locally ():
 You should only run locally if you want to do template or layout edits. Workshops and Lab Reports should be edited through Forestry.
 * [Install Hugo](https://gohugo.io/getting-started/installing/)
-* Clone the repository: `git clone git@github.com:datapartnership/wbdatalab_org.git`
+* Clone the repository: `git clone https://github.com/datapartnership/wbdatalab_org.git`
 * In the directory, run `hugo serve -D -E -F`
 * The site will be available at `http://localhost:1313` in your browser
 
