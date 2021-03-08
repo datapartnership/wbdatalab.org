@@ -7,7 +7,7 @@ Video_path = "https://worldbankgroup-my.sharepoint.com/:v:/g/personal/hkrambeck_
 date = 2021-02-23T05:00:00Z
 scheduled_date = 2021-02-23T05:00:00Z
 title = "Big Data for Broadband Coverage and Economic Impact Assessment - Case of Ukraine"
-workshop_types = []
+workshop_types = ["Workshops"]
 
 +++
 During the workshop, our Digital Development GP colleagues will share their work on broadband coverage and economic impact assessment conducted in Ukraine through merging multiple private and public data sources such as Ookla data on speed tests and Government’s data on penetration rates. The sessions will cover various aspects such as comparability and compatibility of data, data visualization, and catching anomalies.
