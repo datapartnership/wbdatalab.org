@@ -7,7 +7,7 @@ Video_path = ""
 date = 2019-11-29T05:00:00Z
 scheduled_date = 2019-11-29T05:00:00Z
 title = "Author Talk: Cathy O'Neil, Weapons of Math Destruction"
-workshop_types = []
+workshop_types = ["Book Club"]
 
 +++
 Cathy O'Neil author of Weapons of Math Destruction presentation at the World Bank.
