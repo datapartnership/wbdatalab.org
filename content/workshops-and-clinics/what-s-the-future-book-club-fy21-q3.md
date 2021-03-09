@@ -6,7 +6,7 @@ Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/emcleod_w
 Video_path = ""
 date = 2021-02-17T05:00:00Z
 scheduled_date = 2021-02-17T05:00:00Z
-title = "What's the Future Book Club: FY21 Q3"
+title = "FY21 Q3: What's the Future Book Club"
 workshop_types = ["Book Club"]
 
 +++
