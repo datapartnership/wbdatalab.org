@@ -6,7 +6,7 @@ Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/r/personal/hkrambeck
 Video_path = ""
 date = 2020-01-17T05:00:00Z
 scheduled_date = 2020-01-17T05:00:00Z
-title = "FY20 Q3: What's is the Future Book Club"
+title = "FY20 Q3: What's the Future Book Club"
 workshop_types = ["Book Club"]
 
 +++
