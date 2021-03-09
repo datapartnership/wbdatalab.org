@@ -10,4 +10,4 @@ title = "FY20 Q3: What's the Future Book Club"
 workshop_types = ["Book Club"]
 
 +++
-The Data Lab supports learning about both the digital world and each other through books. Every quarter, we organize a speed dating book fair, to help staff find their perfect book match. 
+The Data Lab supports learning about both the digital world and each other through books. Every quarter, we organize a speed dating book fair, to help staff find their perfect book match.
