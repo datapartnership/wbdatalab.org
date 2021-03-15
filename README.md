@@ -18,6 +18,13 @@ The workflow is as follows:
 * Once a commit is made to `master`, a Github Action builds the site and commits the result to `gh-pages`.
 * The site is deployed through Github's environment.  It is available at `wbdatalab.org` per GoDaddy configured A Records and CNAME.
 
+### Deploying on WB Intranet
+* If you have just made edits, wait until the deployment is complete to the `gh-pages` branch.
+* Click on [this link](https://github.com/datapartnership/wbdatalab_org/archive/gh-pages.zip).  It will download the zip archive of the current gh-pages.
+* Extract the contents of the `wbdatalab_org-gh-pages` folder within the archive to `\\websiteqaint\wwdevdatalab` replacing the files already there.
+* Create a new release in TFS.
+* After a few minues, check out `datalab/` to make sure all is well.
+
 
 ### Folders and Files
 ***If a folder is not included in the list below, please don't edit there***
