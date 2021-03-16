@@ -12,4 +12,6 @@ workshop_types = ["Workshops"]
 +++
 The Covid-19 Open-Data project would like to present the largest Covid-19 epidemiological database available in addition to a powerful set of expansive covariates. It includes open-sourced data with a permissive license (enabling commercial use) relating to vaccinations, epidemiology, hospitalizations, demographics, economy, geography, health, mobility, government response, weather, and more. Moreover, the data merges daily time-series from hundreds of data sources at a fine spatial resolution, containing over 20,000 locations and using a consistent set of region keys.
 
-Join us: [Webex](DataPartnershipWebEx) 
+**Join us on April 1st at 1 pm ET**
+
+[Webex](DataPartnershipWebEx)
