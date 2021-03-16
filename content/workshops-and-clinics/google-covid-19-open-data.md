@@ -4,8 +4,8 @@ Extra_link_2 = ""
 Image_path = ""
 Slides_path = ""
 Video_path = ""
-date = 2021-04-01T19:00:00Z
-scheduled_date = 2021-03-16T19:00:00Z
+date = 2021-03-16T06:00:00Z
+scheduled_date = 2021-04-01T19:00:00Z
 title = "Google: Covid-19 Open-Data"
 workshop_types = ["Workshops"]
 
