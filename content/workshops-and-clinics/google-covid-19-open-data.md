@@ -3,7 +3,7 @@ Extra_link_1 = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambec
 Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EYXOvsUq2jhPphFZlt8Bnv4Bw234UNahd-a18IMf1E7zXg?e=Lanmqo"
-Video_path = "https://web.microsoftstream.com/video/198b772e-5911-45b7-ac41-491171e828dd"
+Video_path = "https://web.microsoftstream.com/video/69a5d6f0-331b-487f-a43f-b91dbbb67158"
 date = 2021-04-01T06:00:00Z
 scheduled_date = 2021-04-01T19:00:00Z
 title = "Google: Covid-19 Open-Data"
