@@ -1,6 +1,6 @@
 +++
-Extra_link_1 = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EeZoInmygeFFnDJatTq6vsQBEp6EFocto4kU93vevGJoZg?e=Cnca6f"
-Extra_link_2 = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck_worldbank_org/EVhJyMlJ2hRGvv5srD1mZTcBC1SJw7PCRRKcPWaEPQfCEA?e=PEG9Sd"
+Extra_link_1 = ""
+Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck_worldbank_org/EaeYYEftOExPo9KYTBOo34sBDuaIQ7bnCb24me7DS6VfYw?e=tEraWi"
 Video_path = "https://web.microsoftstream.com/video/dd1e5791-50a0-40a8-84c6-df0115e17d7c"
