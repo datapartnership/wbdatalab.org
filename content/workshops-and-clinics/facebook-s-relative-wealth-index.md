@@ -5,7 +5,7 @@ Image_path = ""
 Slides_path = ""
 Video_path = ""
 date = 2021-05-03T04:00:00Z
-scheduled_date = 2001-05-10T04:00:00Z
+scheduled_date = 2021-05-10T04:00:00Z
 title = "Facebook's Relative Wealth Index"
 workshop_types = ["workshops"]
 
