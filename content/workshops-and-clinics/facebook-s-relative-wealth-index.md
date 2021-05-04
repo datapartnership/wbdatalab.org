@@ -7,7 +7,7 @@ Video_path = ""
 date = 2021-05-03T04:00:00Z
 scheduled_date = 2001-05-10T04:00:00Z
 title = "Facebook's Relative Wealth Index"
-workshop_types = []
+workshop_types = ["workshops"]
 
 +++
 **Join us on May 10th, 9:30 a.m. EDT to learn about Facebook's Relative Wealth Index.**   
