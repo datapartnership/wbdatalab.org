@@ -3,7 +3,7 @@ Extra_link_1 = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambec
 Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck_worldbank_org/EfdVplE94ZJHvkNldW_SJscBYuPrOVwT9UwAjfdpYH48IQ?e=qkk6yB"
-Video_path = ""
+Video_path = "https://web.microsoftstream.com/video/0d61ec01-44ef-4225-b267-a8cd2af41b9c"
 date = 2021-05-03T04:00:00Z
 scheduled_date = 2021-05-10T04:00:00Z
 title = "Facebook's Relative Wealth Index"
