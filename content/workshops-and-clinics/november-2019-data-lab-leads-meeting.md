@@ -13,8 +13,9 @@ workshop_types = ["Lab Leads Meeting"]
 +++
 Agenda:
 
-* Lightning Talk: Ag Observatory
-* Lightning Talk: LSMS (Living Standards Measurement Study)
-* Intro to New Lab Website
-* Lab Leads Point Tally
-* Who-Does-What Directory Update
+* Updates
+* Lightning Talk: GEMS (Geo-Enabling Initiative for Monitoring and Supervision)
+* Lightning Talk: GFDRR Labs
+* Lab Lead Survey Results II
+* Clinic: GFDRR
+* Round Robin
