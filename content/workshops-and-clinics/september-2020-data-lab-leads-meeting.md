@@ -7,7 +7,7 @@ Video_path = ""
 date = 2020-09-01T04:00:00Z
 draft = true
 scheduled_date = 2020-09-01T04:00:00Z
-title = "September 2020: Data Lab Leads Meeting"
+title = "September 2019: Data Lab Leads Meeting"
 workshop_types = []
 
 +++
