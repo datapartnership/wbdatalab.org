@@ -42,6 +42,7 @@ fields:
       format: markdown
   label: Extra Link 2
 pages:
+- content/workshops-and-clinics/april-2020-data-lab-leads-meeting.md
 - content/workshops-and-clinics/author-talk-cathy-o-neil-weapons-of-math-destruction.md
 - content/workshops-and-clinics/big-data-for-broadband-coverage-and-economic-impact-assessment-case-of-ukraine.md
 - content/workshops-and-clinics/development-data-partnership-how-to-start-working-with-private-sector-data.md
