@@ -4,8 +4,8 @@ Extra_link_2 = ""
 Image_path = ""
 Slides_path = ""
 Video_path = ""
-date = 2021-05-25T04:00:00Z
-scheduled_date = 2021-05-23T04:00:00Z
+date = 2021-05-23T04:00:00Z
+scheduled_date = 2021-05-25T04:00:00Z
 title = "Infectious Disease Catalogs And Risk Assessment"
 workshop_types = ["workshops"]
 
