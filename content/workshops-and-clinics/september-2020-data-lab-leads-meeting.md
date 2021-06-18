@@ -7,7 +7,7 @@ Video_path = ""
 date = 2019-09-01T04:00:00Z
 scheduled_date = 2019-09-01T04:00:00Z
 title = "September 2019: Data Lab Leads Meeting"
-workshop_types = []
+workshop_types = ["Lab Leads Meeting"]
 
 +++
 In this meeting, we discussed the Data Lab work and the rationale for its creation, as well as the Lab Activities, Resources, and Lab Leads roles.
