@@ -5,7 +5,7 @@ Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck_worldbank_org/Edh1Zk-4WftGro5A3MaUdhcBhh3Yk5LCZ5wBhogj008ljQ?e=Oshusb"
 Video_path = "https://web.microsoftstream.com/video/1cfff45c-7c78-466a-9003-4f29eb44c0db"
 date = 2021-05-28T04:00:00Z
-scheduled_date = 2021-06-28T04:00:00Z
+scheduled_date = 2021-05-28T04:00:00Z
 title = "Session 2: Infectious Disease Catalogs And Risk Assessment"
 workshop_types = ["workshops"]
 
