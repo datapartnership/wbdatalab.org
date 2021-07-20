@@ -3,7 +3,7 @@ Extra_link_1 = ""
 Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EV8Kll4ZjFdBmitqoIedN6kBrivK5tbUQi-aICXK-JNOEg?e=CHFLpE"
-Video_path = ""
+Video_path = "https://web.microsoftstream.com/video/5ccc70e6-a47f-4c29-ae2d-2e6b467830fe"
 date = 2021-07-15T04:00:00Z
 scheduled_date = 2021-07-15T04:00:00Z
 title = "Facebook's Covid-19 Global Symptoms Survey"
