@@ -7,7 +7,7 @@ Video_path = "https://web.microsoftstream.com/video/5ccc70e6-a47f-4c29-ae2d-2e6b
 date = 2021-07-15T04:00:00Z
 scheduled_date = 2021-07-15T04:00:00Z
 title = "Facebook's Covid-19 Global Symptoms Survey"
-workshop_types = []
+workshop_types = ["workshops"]
 
 +++
 Through the Data for Good program, Facebook receives over a million weekly survey responses from users worldwide on COVID-19 topics such as symptoms, behaviors, and vaccine sentiment.
