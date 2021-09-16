@@ -7,7 +7,7 @@ Video_path = ""
 date = 2021-09-15T04:00:00Z
 scheduled_date = 2021-09-15T04:00:00Z
 title = "September 2021: Data Lab Leads Meeting"
-workshop_types = []
+workshop_types = ["Lab leads meeting"]
 
 +++
 In this meeting, Rochelle O'Hagan from the Development Economics Data Group presented the Development Data Hub 2.0. Natalie Magee ​from the World Food Programme introduced the WFP Innovation Champions Community. And our colleagues from the Human Development Disruptive Tech Initiative​ sought advice for the Digital Toolkit for Human Development.
