@@ -10,4 +10,4 @@ title = "Learning About Atlas AI Data"
 workshop_types = ["Workshops"]
 
 +++
-During this event, Karen Byrnes and Shruti Jai will tell us more about Atlas AI and the datasets available through the Development Data Partnership. Our colleagues from the World Bank Development Data Group, Siobhan Murray, and Talip Kilic will share about their collaboration and work with Atlas AI.
+During this workshop, Karen Byrnes and Shruti Jai will tell us more about Atlas AI and the datasets available through the Development Data Partnership. Our colleagues from the World Bank Development Data Group, Siobhan Murray, and Talip Kilic will share about their collaboration and work with Atlas AI.
