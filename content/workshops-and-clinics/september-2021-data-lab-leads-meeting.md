@@ -3,7 +3,7 @@ Extra_link_1 = ""
 Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/Ec2qlUzb_StGpZMZo87fjzwBFuHR6q4iCp_NtRbDs2xbmQ?e=NREmeV"
-Video_path = ""
+Video_path = "https://web.microsoftstream.com/video/1c62704a-4446-4864-8317-6d4360358f15"
 date = 2021-09-15T04:00:00Z
 scheduled_date = 2021-09-15T04:00:00Z
 title = "September 2021: Data Lab Leads Meeting"
