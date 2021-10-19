@@ -12,4 +12,4 @@ workshop_types = ["workshops"]
 +++
 Join us to learn more about [SpaceKnow](https://spaceknow.com/) data.
 
-🖥  [Webex ](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=ma9446db66ff76a8ba01a0468727d769f)
+🖥  [Webex ](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=mb03483ab14ebeb9ce1a959c3051928b5)
