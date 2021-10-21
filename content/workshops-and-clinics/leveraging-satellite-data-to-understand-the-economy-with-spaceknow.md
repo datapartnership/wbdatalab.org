@@ -6,7 +6,7 @@ Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck
 Video_path = "https://web.microsoftstream.com/video/7a0fba7c-e927-4f75-a75f-ae445c0b8a5f"
 date = 2021-09-29T04:00:00Z
 scheduled_date = 2021-10-19T04:00:00Z
-title = "Nowcasting Data with SpaceKnow"
+title = "Leveraging Nowcasting Data with SpaceKnow"
 workshop_types = ["workshops"]
 
 +++
