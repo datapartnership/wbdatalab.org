@@ -10,8 +10,8 @@ title = "Using Mobility Data In Your Projects with Outlogic"
 workshop_types = []
 
 +++
-**Joining us on November 10, at 10 a.m. US ET** for a session with Outlogic, Nick Jones (GFDRR), and Robert Marty (DIME) focused on Mobility Data. 
+**Join us on November 10, at 10 a.m. US ET** for a session with Outlogic, Nick Jones (GFDRR), and Robert Marty (DIME) focused on Mobility Data.
 
-In this session, Outlogic will discuss how mobility data is collected, what can you do with it, and we will also see what data is available via the Development Data Partnership. We will also hear from WB colleagues using the data in their projects. 
+In this session, Outlogic will discuss how mobility data is collected, what can you do with it, and we will also see what data is available via the Development Data Partnership. We will also hear from WB colleagues using the data in their projects.
 
 **🖥** [**Webex**](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m96810827d3aed5c2638637d1426d630f)
