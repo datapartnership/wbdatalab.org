@@ -7,7 +7,7 @@ Video_path = ""
 date = 2021-11-02T04:00:00Z
 scheduled_date = 2021-11-10T05:00:00Z
 title = "Using Mobility Data In Your Projects with Outlogic"
-workshop_types = []
+workshop_types = ["workshops"]
 
 +++
 **Join us on November 10, at 10 a.m. US ET** for a session with Outlogic, Nick Jones (GFDRR), and Robert Marty (DIME) focused on Mobility Data.
