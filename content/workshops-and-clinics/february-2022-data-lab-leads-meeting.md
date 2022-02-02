@@ -10,4 +10,4 @@ title = "February 2022: Data Lab Leads Meeting"
 workshop_types = ["Lab leads meeting"]
 
 +++
-February Monthly Lab Leads meeting
+February monthly Lab Leads meeting.
