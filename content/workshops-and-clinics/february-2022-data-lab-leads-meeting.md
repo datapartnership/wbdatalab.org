@@ -2,7 +2,7 @@
 Extra_link_1 = ""
 Extra_link_2 = ""
 Image_path = ""
-Slides_path = ""
+Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EWH6QwprSlBDhTFMgh_pcZkBFGcRROGfv96UAp_0yrhugA"
 Video_path = ""
 date = 2022-02-02T05:00:00Z
 scheduled_date = 2022-02-23T05:00:00Z
