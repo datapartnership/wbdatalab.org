@@ -10,4 +10,4 @@ title = "February 2022: Data Lab Leads Meeting"
 workshop_types = ["Lab leads meeting"]
 
 +++
-February monthly Lab Leads meeting.
+In this session, our colleagues from the ITS share the resources and services available for staff. Manar Eliriqsousi presented the RAD Data Analytics and  Visualizations services, and Dany S. Jones showcased the GeoLab's offerings and support areas. 
