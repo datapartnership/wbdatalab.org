@@ -10,6 +10,6 @@ title = "March 2022: Data Lab Leads Meeting "
 workshop_types = ["Lab leads meeting"]
 
 +++
-In this session, our colleagues Nobuo Yoshida (EAEPV) and Carolina Diaz-Bonilla (EAEPV) will share datasets and resources available from the Poverty Global Practice. Lab Leads Sarah Bunker(HGNDR), and Heather G. Moylan (HGNDR) will present the new Gender Data Portal. Finally, Gabriel Stefanini Vicente (DECAT) will share how he's leveraging mobile location data to estimate cross-border movement to assess Ukraine's refugee crisis.
+In this session, our colleagues Nobuo Yoshida (EAEPV) and Carolina Diaz-Bonilla (EAEPV) will share datasets and resources available from the Poverty Global Practice. Lab Leads Sarah Bunker(HGNDR), and Heather G. Moylan (HGNDR) will present the new Gender Data Portal. Finally, Gabriel Stefanini Vicente will show his work-in-progress leveraging mobile location data to assess Ukraine's refugees.
 
 [**Webex**](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=meb7b2d508cd8a6fb208455e1fbbeeb6c)
