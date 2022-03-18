@@ -6,7 +6,7 @@ Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck
 Video_path = "https://web.microsoftstream.com/video/f6946933-704a-4008-bc44-388db7f234d4"
 date = 2022-03-17T04:00:00Z
 scheduled_date = 2022-03-17T04:00:00Z
-title = "Mapillary: How can street-level imagery and maps be leveraged in climate change related projects?"
+title = "Mapillary: How Can Street-Level Imagery and Maps Be Leveraged In Climate Change Related Projects?"
 workshop_types = ["workshops"]
 
 +++
