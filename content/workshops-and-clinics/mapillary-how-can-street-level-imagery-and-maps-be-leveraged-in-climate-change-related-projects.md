@@ -3,9 +3,8 @@ Extra_link_1 = ""
 Extra_link_2 = ""
 Image_path = ""
 Slides_path = "https://worldbankgroup-my.sharepoint.com/:p:/g/personal/hkrambeck_worldbank_org/EbsSF1VECC5MpNYVdxH-_w0B_WxgRHZnb-MB2y1qnpI6XQ?e=KXApiL"
-Video_path = ""
+Video_path = "https://web.microsoftstream.com/video/f6946933-704a-4008-bc44-388db7f234d4"
 date = 2022-03-17T04:00:00Z
-draft = true
 scheduled_date = 2022-03-17T04:00:00Z
 title = "Mapillary: How can street-level imagery and maps be leveraged in climate change related projects?"
 workshop_types = ["workshops"]
