@@ -1,0 +1,56 @@
+//Styles for the Workshops List Page
+.workshops-list-page {
+  background-color: $light-gray;
+}
+
+.workshops-hero {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2.5rem;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+
+  h1,
+  p {
+    margin: 0;
+  }
+
+  h1 {
+    color: $brighter-orange;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    min-width: 415px;
+  }
+
+  p {
+    font-size: 1.5rem;
+    color: $dark-gray;
+    margin-bottom: 1.5rem;
+    min-width: 616px;
+    width: 71%;
+
+    &:last-of-type {
+      padding-bottom: 11rem;
+    }
+  }
+}
+
+.clinics-badge {
+  max-width: 400px;
+  width: 100%;
+}
+
+@media (max-width: 1040px) {
+  .workshops-hero {
+    flex-direction: column;
+  }
+
+  .hero-text {
+    align-items: center;
+  }
+}

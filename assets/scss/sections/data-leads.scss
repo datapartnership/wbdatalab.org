@@ -1,0 +1,154 @@
+.data-leads {
+  background-color: $light-gray;
+
+  & > .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .data-leads-hero {
+    align-items: center;
+    display: flex;
+    margin-bottom: 6rem;
+  }
+
+  .info-container {
+    margin-bottom: 2.5rem;
+    width: 100%;
+
+    .data-leads-description {
+      color: $dark-gray;
+      font-size: 1.4rem;
+      line-height: 1.9rem;;
+      margin: 0;
+      max-width: 580px;
+
+      a {
+        color: $teal;
+      }
+    }
+  }
+
+  .data-leads-badge {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  h1, h2 {
+    margin: 0;
+  }
+
+  h1 {
+    color: $teal;
+    font-size: 3rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+  }
+}
+
+.lab-leads-directory {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: $blue;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-top: 2.5rem;
+}
+
+iframe {
+  margin: 1rem 0 3.5rem;
+  min-height: 500px;
+  width: 100%;
+}
+
+.about-data-leads {
+  background-color: $teal;
+
+  padding: 4rem 0;
+  width: 100%;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .text-container {
+    min-width: 733px;
+  }
+
+   p {
+     font-size: 1.4rem;
+     margin: .5rem;
+     margin-left: 0;
+     max-width: 760px;
+
+     & > a {
+       color: $blue;
+
+       &:hover {
+         color: $white;
+       }
+     }
+   }
+
+   img {
+    margin: auto;
+    max-width: 633px;
+    width: 100%;
+   }
+}
+
+.about-leads-heading {
+  color: $white;
+  font-size: 3rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+@media (max-width: 1530px) {
+  .about-data-leads {
+    .container {
+      align-items: center;
+      flex-direction: column;
+
+      img {
+        margin-top: 2.5rem;
+      }
+    }
+  }
+}
+@media (max-width: 1200px) {
+  .data-leads {
+    .data-leads-hero {
+      .data-leads-description {
+        font-size: 1.2rem;
+      }
+
+      .data-leads-badge {
+        max-width: 300px;
+      }
+    }
+  }
+}
+
+@media (max-width: 993px) {
+  .data-leads {
+    .data-leads-hero {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .data-leads {
+    .info-container {
+      flex-direction: column;
+
+      .data-leads-description {
+        margin-bottom: 3rem;
+      }
+    }
+  }
+}
