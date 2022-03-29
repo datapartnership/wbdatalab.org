@@ -5,7 +5,7 @@ Image_path = ""
 Slides_path = ""
 Video_path = ""
 date = 2022-03-29T04:00:00Z
-scheduled_date = 2022-03-30T04:00:00Z
+scheduled_date = 2022-03-30T05:00:00Z
 title = "How Mapping Internet Connectivity Can Generate New Insights for Development Projects"
 workshop_types = ["Workshops"]
 
