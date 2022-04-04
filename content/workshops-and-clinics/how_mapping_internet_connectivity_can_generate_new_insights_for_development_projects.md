@@ -10,4 +10,4 @@ title = "How Mapping Internet Connectivity Can Generate New Insights for Develop
 workshop_types = ["Workshops"]
 
 +++
-In this session Katherine Macdonald and James Carroll discussed Ookla data and how people worldwide use Ookla’s Speedtest® to measure the quality of their internet connections.  Niccolò Comini from the World Bank Digital Development Global Practice shared how his team is working with Ookla’s data in their projects.
+In this session Katherine Macdonald and James Carroll discussed Ookla data and how people worldwide use Ookla’s Speedtest® to measure the quality of their internet connections. Niccolò Comini from the World Bank Digital Development Global Practice shared how his team is working with Ookla’s data in their projects.
