@@ -6,7 +6,7 @@ Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck
 Video_path = "https://web.microsoftstream.com/video/5ae957e2-569d-49fc-afdb-38a605d1530a"
 date = 2022-05-13T05:00:00Z
 scheduled_date = 2022-05-25T05:00:00Z
-title = "How Are Project Using Datasets and Surveys From Meta Data for Good?"
+title = "How are Projects Using Datasets and Surveys From Meta Data for Good?"
 workshop_types = ["workshops"]
 
 +++
