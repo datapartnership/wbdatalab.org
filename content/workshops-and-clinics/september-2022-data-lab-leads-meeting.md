@@ -10,4 +10,4 @@ workshop_types = ["Lab leads meeting"]
 
 In this session, DIME Lab Lead Maria Jones will share her team's truly excellent data science reproducibility best practices, including their peer code review process and reproducibility checks. And, Gabriel Stefanini Vicente (DECAT) will walk us through the new Data Lab GitHub-based data documentation templates, covering all sorts of cool tricks, including GitHub pages and actions.
 
-Location: MC C3 214 (WBG Library) and *[WebEx](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m99537a384341309eec7cf46bfe571584)
+Location: MC C3 214 (WBG Library) and [WebEx](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m99537a384341309eec7cf46bfe571584)
