@@ -3,7 +3,7 @@ Slides_path = ""
 Video_path = ""
 date = 2022-10-17T00:00:00Z
 scheduled_date = 2022-10-20T00:00:00Z
-title = "Working On A Data Science Project And Don’t Know Where To Start?"
+title = "Working on a Data Science Project and Don’t Know Where to Start?"
 workshop_types = ["Workshops"]
 
 +++
