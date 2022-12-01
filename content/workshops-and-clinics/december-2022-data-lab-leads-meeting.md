@@ -7,7 +7,7 @@ title = "December 2022: Data Lab Leads Meeting"
 workshop_types = ["Lab leads meeting"]
 
 +++
-Join us for the Data Lab’s December meeting. In this session, our Lab Leads from the ITS Technology and Innovation Lab will present their resources and available data.
+Join us for the Data Lab’s December meeting, where our Lab Leads from the ITS Technology and Innovation Lab will present their approach to exploring AI technologies and AI Projects with WBG Corporate & Operations.
 
 in-person: World Bank Group Library
 virtual:[Webex](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=mac3951adbcdeac9be874ae93e822f506)
