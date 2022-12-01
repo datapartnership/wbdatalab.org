@@ -1,7 +1,4 @@
 +++
-Extra_link_1 = ""
-Extra_link_2 = ""
-Image_path = ""
 Slides_path = ""
 Video_path = ""
 date = 2022-11-30T01:00:00Z
