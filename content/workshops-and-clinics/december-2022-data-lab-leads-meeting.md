@@ -13,4 +13,4 @@ workshop_types = ["Lab leads meeting"]
 Join us for the Data Lab’s December meeting. In this session, our Lab Leads from the ITS Technology and Innovation Lab will present their resources and available data.
 
 in-person: World Bank Group Library
-virtual:[Webex](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m1e5c9342514342a5edd11c5e558f813c)
+virtual:[Webex](https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=mac3951adbcdeac9be874ae93e822f506)
