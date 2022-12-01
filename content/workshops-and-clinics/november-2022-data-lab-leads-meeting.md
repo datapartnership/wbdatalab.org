@@ -10,4 +10,4 @@ title = "November 2022: Data Lab Leads Meeting"
 workshop_types = ["Lab leads meeting"]
 
 +++
-In this session, Ravi Kumar (DECSR) presented the Data Use and Literacy Program, which delivers various activities to build data literacy and data use capacity. Holly Krambeck (DECAT) shared a proposal to create a Heatwaves Data Collaborative.
+In this session, Ravi Kumar (DECSR) presented the Data Use and Literacy Program, which delivers various activities to build data literacy and data use capacity. Holly Krambeck (Data Lab) shared a proposal to create a Heatwaves Data Collaborative.
