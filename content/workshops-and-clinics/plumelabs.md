@@ -1,6 +1,6 @@
 +++
-Slides_path = ""
-Video_path = ""
+Slides_path = "https://worldbankgroup-my.sharepoint.com/:b:/g/personal/hkrambeck_worldbank_org/EW2Fh9gqTihJtGcWgpZkjOUBxTKXuuZoETsBx3RsiZvg4A?e=8ctgD4"
+Video_path = "https://web.microsoftstream.com/video/2624384a-3cce-4b3a-b7c0-baab4e202f54"
 date = 2022-11-30T01:00:00Z
 scheduled_date = 2022-12-07T05:00:00Z
 title = "How Can You Leverage Air Pollution Data from Plume Labs?"
