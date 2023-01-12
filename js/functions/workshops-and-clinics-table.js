@@ -27,10 +27,11 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       searchable: true,
       fixedHeight: true,
-      perPage: 25
+      perPage: 25,
+      order: [[0, 'desc']],
     }
   )
-  dataTable.api().columns().sort(0, 'desc')
+  // dataTable.columns().sort(0, 'desc')
 
   const removeTableHeightFromContainer = function (table) {
     table.container.style.height = 'unset'
