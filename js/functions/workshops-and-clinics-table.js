@@ -26,12 +26,11 @@ document.addEventListener("DOMContentLoaded", function () {
     "#workshops-and-clinics-table",
     {
       searchable: true,
-      // fixedHeight: true,
-      // perPage: 25,
-      // order: [[0, 'desc']],
+      fixedHeight: true,
+      perPage: 25,
+      order: [[0, 'desc']],
     }
   )
-  // dataTable.columns().sort(0, 'desc')
 
   const removeTableHeightFromContainer = function (table) {
     table.container.style.height = 'unset'
