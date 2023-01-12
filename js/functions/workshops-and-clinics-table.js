@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
       perPage: 25
     }
   )
-  dataTable.columns().sort(0, 'desc')
+  dataTable.api().columns().sort(0, 'desc')
 
   const removeTableHeightFromContainer = function (table) {
     table.container.style.height = 'unset'
