@@ -1,7 +1,7 @@
 +++
 Slides_path = ""
 Video_path = ""
-Extra_link_1 = "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fteams.microsoft.com.mcas.ms%2Fl%2Fmeetup-join%2F19%253ameeting_MzFmMjgwZDMtOWVmYS00MTc3LWJkM2ItZDZiNDAxMmM0ZGUy%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252231a2fec0-266b-4c67-b56e-2796d8f59c36%2522%252c%2522Oid%2522%253a%252280cb6a18-b14a-4b43-a168-3a6a9969c4da%2522%257d%26McasTsid%3D20893&McasCSRF=91e956608caf27471d02cc0a0a4cf2240031f7325fc58ed7f59e773726029dff"
+Extra_link_1 = "https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=mf85aa82ca5a621abbbc761d2c6150f09"
 date = 2023-09-06T00:00:00Z
 scheduled_date = 2023-09-28T01:01:00Z
 title = "Leveraging Satellite Data From Planet"
@@ -9,4 +9,4 @@ workshop_types = ["Workshops"]
 
 +++
 
-Join us and see how Planet Satellite Data can help you with your project. 
+Join us on Thursday, September 28, from 10:00 a.m. - 11:00 a.m. ET to learn about Planet's satellite data and how to leverage it for international development. Planet will showcase use cases, including disaster responses, environment, and many others. Planet is making its data available via the Development Data Partnership.
