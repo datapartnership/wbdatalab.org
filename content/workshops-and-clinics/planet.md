@@ -1,12 +1,12 @@
 +++
-Slides_path = ""
-Video_path = ""
-Extra_link_1 = "https://teams.microsoft.com.mcas.ms/l/meetup-join/19%3ameeting_YmZlYjFhZDktNDhlZC00YWI5LTk5NmMtOGFhMTkyZDZkOGQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2231a2fec0-266b-4c67-b56e-2796d8f59c36%22%2c%22Oid%22%3a%2278b04271-aa71-4923-965a-80ac0eaf9bfd%22%7d&Mca"
+Slides_path = "https://worldbankgroup.sharepoint.com/:p:/t/DevelopmentDataPartnershipCommunity-WBGroup/EeTdyo6a_vRDrOkC5vziD-MBN8016tSymS3lwe6eovsCKQ?e=CkpDAW"
+Video_path = "https://worldbankgroup.sharepoint.com/:v:/t/DevelopmentDataPartnershipCommunity-WBGroup/EYQRwBycDe1Kv1E-wNN5oroB56h8x2M0vqnusepQ0lEb0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=yWmnxQ"
+
 date = 2023-09-06T00:00:00Z
 scheduled_date = 2023-09-28T01:01:00Z
-title = "Leveraging Satellite Data From Planet"
+title = "Satellite Data with Planet"
 workshop_types = ["Workshops"]
 
 +++
 
-Join us on Thursday, September 28, from 10:00 a.m. - 11:00 a.m. ET to learn about Planet's satellite data and how to leverage it for international development. Planet will showcase use cases, including disaster responses, environment, and many others. Planet is making its data available via the Development Data Partnership.
+In this session, Planet presented its satellite data and showed how to leverage it for international development. Planet also showcased use cases, including disaster responses, environment, and many others. 
