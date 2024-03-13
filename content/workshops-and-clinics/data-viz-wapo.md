@@ -6,4 +6,4 @@ title = "Data Visualization At the WB with Special Guest from the Washington Pos
 workshop_types = ["Workshops"]
 
 +++
-Hannah Dormido, graphics reporter and cartographer at the Washington Post, and presented how her team transforms data to tell compelling stories. Umar Serajuddin and Divyanshi Wadhwa presented the state of data visualization at the World Bank and how to get involved in the World Bank data visualization community of practice.
+Hannah Dormido, graphics reporter and cartographer at the Washington Post presented how her team transforms data to tell compelling stories. Umar Serajuddin and Divyanshi Wadhwa presented the state of data visualization at the World Bank and how to get involved in the World Bank data visualization community of practice.
