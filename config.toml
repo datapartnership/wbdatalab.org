@@ -27,9 +27,6 @@ assetDir = "static/assets"
 	universityDataFellowsLabel = "University Data Fellows"
 	universityDataFellowsLink = "/university-data-fellows"
 
-	skillBadgesLabel = "Skill Certification Program"
-	skillBadgesLink	= "/skill-badges"
-
 	DataLabRequestForm = "https://forms.office.com/r/xC05GdvTNU"
 [module]
 	[hugoVersion]
