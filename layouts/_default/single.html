@@ -5,11 +5,6 @@
 		{{ partial "single-pages/about.html" . }}
 	{{- end -}}
 
-	{{/*  Data Resources Page Layout  */}}
-	{{ if eq .Page.Section "data-resources-directory" }}
-		{{- partial "list-partials/data-resources-directory-page.html" . -}}
-	{{- end -}}
-	
 	{{ if eq .Page.Section "workshops-and-clinics" }}
 		{{ partial "single-pages/workshops-and-clinics-single-page.html" . }}
 	{{- end -}}

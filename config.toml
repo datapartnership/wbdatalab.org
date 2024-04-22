@@ -27,7 +27,10 @@ assetDir = "static/assets"
 	universityDataFellowsLabel = "University Data Fellows"
 	universityDataFellowsLink = "/university-data-fellows"
 
+	DataLabEmail = "mailto:datalab@worldbank.org"
+	DataLabMailingList = "mailto:datalab@worldbank.org?subject=Add%20Me%20to%20the%20Data%20Lab's%20Mailing%20List"
 	DataLabRequestForm = "https://forms.office.com/r/xC05GdvTNU"
+
 [module]
 	[hugoVersion]
 	extended = true
