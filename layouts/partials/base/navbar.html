@@ -1,14 +1,15 @@
 <nav id="mainNav" class="navbar" role="navigation" aria-label="main navigation">
 	<div class="nav-container">
 		<div class="mobile-layout">
-				<a class="navbar-item" href="/">
-					<img id="top"class="wb-logo" src="/img/shared/world-bank-data-lab-logo.png" alt="{{- .Site.Title -}}">
-				</a>
+			<a href="/">
+				<img class="wb-logo" src="{{- .Site.BaseURL -}}/img/data-lab/DataLab_Main_Version.png" alt="{{- .Site.Title -}}">
+			</a> 
 			<div class="navbar-end navbar-menu">
 				<div class="nav-links">
-					<a href="/data-resources-directory">Find WB Data Resources</a>
-					<a href="{{- .Site.BaseURL -}}/#external-collaborators">{{ .Site.Params.ExternalPartnershipsLinkTitle }}</a>
-					<a href="{{- .Site.BaseURL -}}/#workshops-and-clinics-table">{{ .Site.Params.DigitalLiteracyLinkTitle }}</a>
+					<a href="/about">About</a>
+					<a href="{{- .Site.Params.DataLabRequestForm -}}">Ask us anything</a>
+					<a href="/data-resources-directory">Find Data Resources</a>
+					<a href="/#workshops-and-events">Workshops & Events Materials</a>
 				</div>
 			</div>
 		</div>

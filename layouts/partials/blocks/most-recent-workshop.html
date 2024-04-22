@@ -4,12 +4,13 @@
     {{ with .Site.GetPage "section" "workshops-and-clinics" }}
     {{ range sort .Pages ".Params.Scheduled_date" "desc" | first 1 }}
     <a href="{{- .Site.BaseURL -}}#workshops-and-clinics-table">
-      <h2>Upcoming Event: </h2>
-     <h3>{{- .Title -}}</h3>
+      <img class="calendar-icon" src="{{- .Site.BaseURL -}}/img/most-recent/data-lab-calender-icon.png" alt="Calendar Icon">
+      <h2>Upcoming Event:</h2>
     </a>
     <div class="scheduled-date">
+      <h2></h3><b>{{- .Title -}}</b></h2>
+      <br>
       <h3 class="most-recent">{{- .Params.Scheduled_date -}}</h3>
-      <img class="calendar-icon" src="{{- .Site.BaseURL -}}/img/most-recent/data-lab-calender-icon.png" alt="Calendar Icon">
     </div>
     {{- end -}}
     {{- end -}}

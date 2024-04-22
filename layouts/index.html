@@ -1,12 +1,12 @@
 {{- define "main" -}}
 	<main class="main">
+		{{- block "most-recent" . -}}
+		{{- end -}}
+		
 		{{- block "section-cards" . -}}
 		{{- end -}}
 
 		{{- block "header" . -}}
-		{{- end -}}
-
-		{{- block "most-recent" . -}}
 		{{- end -}}
 
 		{{- block "workshops" . -}}

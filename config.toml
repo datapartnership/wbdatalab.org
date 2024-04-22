@@ -4,18 +4,15 @@ title = "World Bank Data Lab"
 assetDir = "static/assets"
 
 [params]
-	dataResourcesLinkTitle = "Find WB Data Resources"
+	dataResourcesLinkTitle = "Data Resources"
 	dataResourcesLink = "/data-resources-directory"
 
 	externalPartnershipsLinkTitle = "Find External Collaborators"
 
-	dataPartnershipsLinkTitle = "Data Partnerships"
+	dataPartnershipsLinkTitle = "Development Data Partnership"
 	dataPartnershipsLink = "https://datapartnership.org"
 
-	digitalLiteracyLinkTitle = "Event & Workshop Materials"
-
-	workshopsSectionLabel = "Workshops And Clinics"
-	workshopsLink = "/workshops-and-clinics"
+	workshopsSectionLabel = "Workshops and Events"
 
 	dataDirectoryLabel = "Find World Bank Data Resources"
 
@@ -30,8 +27,10 @@ assetDir = "static/assets"
 	universityDataFellowsLabel = "University Data Fellows"
 	universityDataFellowsLink = "/university-data-fellows"
 
-	skillBadgesLabel = "Skill badges (Planned)"
+	skillBadgesLabel = "Skill Certification Program"
 	skillBadgesLink	= "/skill-badges"
+
+	DataLabRequestForm = "https://forms.office.com/r/xC05GdvTNU"
 [module]
 	[hugoVersion]
 	extended = true
