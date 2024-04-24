@@ -19,17 +19,13 @@ assetDir = "static/assets"
 	dataDirectoryPageLabel = "WB Data Directory"
 
 	dataLeadsLabel = "Data Lab Leads Network"
-	dataLeadsLink = "/data-leads"
-
-	dataCorpsLabel = "Data Corps"
-	dataCorpsLink = "/data-corps"
-
-	universityDataFellowsLabel = "University Data Fellows"
-	universityDataFellowsLink = "/university-data-fellows"
 
 	DataLabEmail = "mailto:datalab@worldbank.org"
 	DataLabMailingList = "mailto:datalab@worldbank.org?subject=Add%20Me%20to%20the%20Data%20Lab's%20Mailing%20List"
 	DataLabRequestForm = "https://forms.office.com/r/xC05GdvTNU"
+	DataLabRequestFormTracker = "https://worldbankgroup-my.sharepoint.com/:x:/r/personal/ccalderon2_worldbank_org/Documents/Data%20Lab%20Website/data%20lab%20request%20for%20support.xlsx?d=w75ce08e79cb1454d9378b2cc10bea9bb&csf=1&web=1&e=pGdpMC"
+	DataLabDirectory = "https://worldbankgroup-my.sharepoint.com/personal/ccalderon2_worldbank_org/_layouts/15/Doc.aspx?sourcedoc={cbf7d856-fbbb-45e7-ad75-de5446aea8d0}&action=embedview&ActiveCell='WebDisplay'!A1&Item='WebDisplay'!A1%3AE120&wdDownloadButton=True&wdInConfigurator=True"
+
 
 [module]
 	[hugoVersion]

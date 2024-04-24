@@ -6,12 +6,11 @@
     <a href="{{- .Site.BaseURL -}}#workshops-and-clinics-table">
       <img class="calendar-icon" src="{{- .Site.BaseURL -}}/img/most-recent/data-lab-calender-icon.png" alt="Calendar Icon">
       <h2>Upcoming Event:</h2>
+      <div class="scheduled-date">
+        <h2 class="most-recent">{{- .Params.scheduled_date -}}</h2>
+      </div>
+      <h2>{{- .Title -}}</h3>
     </a>
-    <div class="scheduled-date">
-      <h2></h3><b>{{- .Title -}}</b></h2>
-      <br>
-      <h3 class="most-recent">{{- .Params.Scheduled_date -}}</h3>
-    </div>
     {{- end -}}
     {{- end -}}
   </div>
