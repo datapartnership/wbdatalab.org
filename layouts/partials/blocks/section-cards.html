@@ -3,41 +3,41 @@
   <div class="container">
     <ul class="cards-container">
       <div class="flex-column">
-        <h2 id="data-resources" class="section-heading">Find Data Science Resources</h2>
+        <h2 id="data-resources" class="section-heading">Connect with WB Data Resources</h2>
         <li>
           <div class="card">
-            <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataLeadsLink -}}">
+            <a href="/data-leads">
               <div class="icon-container">
                 <img class="badges" src="{{- .Site.Params.BaseURL -}}img/skill-badges/data-leads-badge.svg"
                   alt="The Data Leads Network">
               </div>
+              <div class="text-container">
+                <h3>
+                  <a href="/data-leads">The Lab Leads Network</a>
+                </h3>
+                <p>
+                  Got data questions? Contact your unit Data Lead or submit a <a href="https://bit.ly/DataLabForm">Request for Support</a> form. 
+                </p>
+              </div>
             </a>
-            <div class="text-container">
-              <h3>
-                <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataLeadsLink -}}">The Lab Leads Network</a>
-              </h3>
-              <p>
-                Got data questions? Contact your unit Data Lead or submit a <a href="https://bit.ly/DataLabForm">Request for Support</a> form. 
-              </p>
-            </div>
           </div>
         </li>
         <li>
           <div class="card">
-            <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataCorpsLink -}}">
+            <a href="/data-corps">
               <div class="icon-container">
                 <img class="badges" src="{{- .Site.Params.BaseURL -}}img/data-corps/data-corps-badge.svg"
                   alt="Data Corps">
               </div>
+              <div class="text-container">
+                <h3>
+                  <a href="{{- .Site.Params.BaseURL -}}/data-corps">Data Corps </a>
+                </h3>
+                <p>
+                Need a data scientist? Work with staff who have earned WB Data Skill Certifications to support your project. 
+                </p>
+              </div>
             </a>
-            <div class="text-container">
-              <h3>
-                <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataCorpsLink -}}">Data Corps </a>
-              </h3>
-              <p>
-              Need a data scientist? Work with staff who have earned WB Data Skill Certifications to support your project. 
-              </p>
-            </div>
           </div>
         </li>
       </div>
@@ -45,46 +45,42 @@
         <h2 id="external-collaborators" class="section-heading">Find External Collaborators</h2>
         <li>
           <div class="card">
-            <div class="icon-container">
-              <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataPartnershipsLink -}}" target="_blank"
-                rel="noreferer" rel="noopener">
-                <img class="badges" src="{{- .Site.Params.BaseURL -}}img/skill-badges/data-partners-badge.svg"
-                  alt="Development Data Partnerships">
-              </a>
-            </div>
-            <div class="text-container">
-              <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataPartnershipsLink -}}" target="_blank"
-                rel="noreferer" rel="noopener">
+            <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.DataPartnershipsLink -}}" target="_blank"
+            rel="noreferer" rel="noopener">
+              <div class="icon-container"> 
+                  <img class="badges" src="{{- .Site.Params.BaseURL -}}img/skill-badges/data-partners-badge.svg"
+                    alt="Development Data Partnerships">
+              </div>
+              <div class="text-container">
                 <h3>Development Data Partnership</h3>
-              </a>
-              <p>Need more frequent, granular data in your project? Try one of our private sector partnerships. ​</p>
-            </div>
+                </a>
+                <p>
+                  Need more frequent, granular data in your project? Try one of our private sector partnerships.
+                </p>
+              </div>
+            </a>
           </div>
         </li>
         <li>
           <div class="card">
-            <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.UniversityDataFellowsLink -}}">
+            <a href="{{- .Site.Params.BaseURL -}}/university-data-fellows">
               <div class="icon-container">
                 <img class="badges" src="{{- .Site.Params.BaseURL -}}img/data-fellows/data-fellows-badge.svg"
                   alt="University Data Fellows">
               </div>
+              <div class="text-container">
+                <h3>University Data Fellows</h3>
+                <p>
+                  Want to work with a data science student or team to support your project? Submit an application to our
+                  University Data Fellows program.
+                </p>
+              </div>
             </a>
-            <div class="text-container">
-              <h3>
-                <a href="{{- .Site.Params.BaseURL -}}{{- .Site.Params.UniversityDataFellowsLink -}}">
-                  University Data Fellows
-                </a>
-              </h3>
-              <p>
-                Want to work with a data science student or team to support your project? Submit an application to our
-                University Data Fellows program. ​
-              </p>
-            </div>
           </div>
         </li>
       </div>
       <div class="flex-column">
-        <h2 id="digital-literacy" class="section-heading">Build Our Data Strength</h2>
+        <h2 id="digital-literacy" class="section-heading">Build Your Data Strength</h2>
         <li>
           <div class="card">
             <a href="{{- .Site.Params.BaseURL -}}#workshops-and-events">
@@ -93,9 +89,9 @@
                   alt="Workshops and Clinics">
               </div>
               <div class="text-container">
-                <h3>Workshops and Events</a></h3>
+                <h3>Workshops and Events</h3>
                 <p>
-                  Stay current on best data practices through meetings with external experts and data community activities. All past activity materials and recordings are available on the Lab site. 
+                  Stay current on best data practices through meetings with external experts and data community activities. Find past activity materials on the Lab site. 
                 </p>
               </div>
             </a>
@@ -109,7 +105,7 @@
                     alt="Applied Research">
               </div>
               <div class="text-container">
-                  <h3>Data Skill Certification</h3>
+                <h3>Data Skill Certification</h3>
                 <p>
                   Train for, earn, and be recognized for data skills in the World Bank. 
                 </p>
@@ -119,7 +115,7 @@
         </li>
       </div>
       <div class="flex-column">
-        <h2 id="digital-literacy" class="section-heading">Find Code<br>Resources</h2>
+        <h2 id="digital-literacy" class="section-heading">Find Reusable<br>WB Code</h2>
         <li>
           <div class="card">
             <a href="https://worldbank.github.io">
