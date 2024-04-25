@@ -2,7 +2,7 @@
   <div class="container">
     <div class="skill-badges-hero">
       <div class="hero-text">
-        <h1>Skill Certification Program</h1>
+        <h1>Data Skills Certification Program</h1>
         <p>Earn formal recognition for your data skills through the World Bank Data Skills Certification program and explore learning pathways to level up. 
         </p>
       </div>
@@ -14,10 +14,6 @@
   <div class="skill-badges-section">
     <div class="container">
       <img src="{{- .Site.BaseURL -}}/img/badges/DataSkilL_INFO.png">
-      <div class="skill-badges-button">
-        <a href="/">View Skill Matrices</a>
-        <a href="/">Go to Certification Platform</a>
-      </div>
       <p class="skill-badges-info">
         As the Bank's approach to data and analytics develops, so does the need to formally recognize staff expertise in data fields. However, unlike traditional World Bank disciplines - engineering, economics, law, etc. - mastery in data science can be difficult to confirm, since the quality and composition of degree programs vary substantially, and, more critically, many data skills can be learned on-line throughout one's career, requiring self-reporting for skill mastery.
         <br><br>
@@ -32,8 +28,11 @@
         <div>
           <h4 class="skill-badges-info">Step 1. Review Criteria and Select Certification Test</h4>
           <p class="skill-badges-info">
-          <b>Review certification requirements and accompanying training materials:</b>
+          Review certification requirements and accompanying training materials:
           </p>
+          <div class="skill-badges-button">
+            <a href="{{- .Site.Params.DataSkillsCertificationSkillMatrix -}}">View Skill Matrices</a>
+          </div>
           <div class="skill-badges-section">
             <div class="container">
               <div class="skill-badges-content">
@@ -72,7 +71,7 @@
             <br><br>
             The tests are mostly task-based. For example, depending on skills being tested for, colleagues must be prepared to demonstrate their skills through such exercises as generating descriptive statistics from a dataset, completing a code notebook, preparing a map, identifying the flaws in a survey design, or presenting a dataset as a dashboard.  
             <br><br>
-            <b>You can access the platform for all current tests on offer:</b>
+            You can access the platform for all current tests on offer:
           </p>
           <div class="skill-badges-button">
             <a href="/">Go to Certification Platform</a>
@@ -82,7 +81,7 @@
             <p class="skill-badges-info">
               After receiving your test results, you will be granted an opportunity to join the <a href="/data-corps">Data Corps</a> registry. Through the registry, you will receive notifications about cross-support opportunities to apply your skills across new sectors and challenges, as well as group upskilling training opportunities offered through the Data Talent Board. 
               <br><br>
-              <b>You can view the current Registry here:</b>
+              You can view the current Registry here:
               </p>
               <div class="skill-badges-button">
                 <a href="/">Data Corps Registry </a>
@@ -100,7 +99,7 @@
     <div class="skill-badges-section">
       <h2>How Skill Requirements Were Developed </h2>
         <p class="skill-badges-info">
-          The skill matrices were created by a Data Talent Board Technical Working Group, led by the <a href="/">Data Lab</a> and comprised of 20 staff who use these skills in their everyday work and external experts. Periodically, the Data Talent Board will review these standards and evaluate whether updates are required.  
+          The skill matrices were created by a <a href="{{- .Site.Params.DataSkillsCertificationTechnicalWorkingGroup -}}">Data Talent Board Technical Working Group</a>, led by the <a href="/">Data Lab</a> and comprised of 20 staff who use these skills in their everyday work and external experts. Periodically, the Data Talent Board will review these standards and evaluate whether updates are required.  
         </p>
         <br><br>
     </div>

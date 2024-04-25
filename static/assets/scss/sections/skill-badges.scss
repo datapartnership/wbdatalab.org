@@ -19,6 +19,7 @@
 
     h1,
     p {
+      padding-left: 1rem;
       color: $white;
     }
 
@@ -57,9 +58,7 @@
     }
 
     img {
-      margin: auto;
-      display: block;
-      width: 90%;
+      width: 60%;
     }
 
     .skill-badges-badge {
@@ -79,17 +78,16 @@
       }
     }
     .skill-badges-button {
-      display: flex;
-      justify-content: space-between;
+      display: left;
+      justify-content: left;
   
       a {
         font-size: 1.2rem;
         font-weight: 700;
         color: $white;
         background-color: $brighter-orange;
-        margin: auto;
-        margin-top: 0.5rem;
-        max-width: 600px;
+        margin-top: 2rem;
+        margin-right: 12rem;
         text-align: center;
         padding: 1rem;
       }
