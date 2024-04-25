@@ -27,11 +27,6 @@
     }
   }
 
-  .skill-badges-badge {
-    max-width: 400px;
-    width: 100%;
-  }
-
   .skill-badges-section {
     background-color: $light-gray;
     padding-top: 1rem;
@@ -60,44 +55,71 @@
     p {
       margin-top: 2rem;
     }
-  }
-
-  .skill-badges-content {
-    display: flex;
-    justify-content: space-around;
-    padding-top: 2.5rem;
-    padding-bottom: 12rem;
-
-    .container {
-      align-items: center;
-      display: flex;
-    }
-  }
-
-  .badge-content {
-    display: flex;
-    flex-direction: column;
-    margin: 0.25rem;
-    max-height: 436px;
-    max-width: 255px;
-    min-width: 255px;
 
     img {
-      max-width: 180px;
+      margin: auto;
+      display: block;
+      width: 90%;
+    }
+
+    .skill-badges-badge {
+      max-width: 400px;
       width: 100%;
     }
 
-    h2 {
-      font-size: 1.2rem;
-      font-weight: 700;
-      margin: 0;
-      text-align: center;
+    .skill-badges-content {
+      display: flex;
+      justify-content: space-around;
+      padding-top: 2.5rem;
+      padding-bottom: 4rem;
+
+      .container {
+        align-items: center;
+        display: flex;
+      }
+    }
+    .skill-badges-button {
+      display: flex;
+      justify-content: space-between;
+  
+      a {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: $white;
+        background-color: $brighter-orange;
+        margin: auto;
+        margin-top: 0.5rem;
+        max-width: 600px;
+        text-align: center;
+        padding: 1rem;
+      }
     }
 
-    p {
-      font-size: 1rem;
-      margin-top: 0;
-      width: 80%;
+    .badge-content {
+      display: flex;
+      flex-direction: column;
+      margin: 0.25rem;
+      max-height: 436px;
+      max-width: 255px;
+      min-width: 255px;
+
+      img {
+        max-width: 180px;
+        width: 100%;
+      }
+
+      h2 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin: 0;
+        text-align: center;
+      }
+
+      p {
+        font-size: 1rem;
+        margin-top: 0;
+        width: 80%;
+      }
     }
   }
 
