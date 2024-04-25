@@ -14,8 +14,6 @@ assetDir = "static/assets"
 
 	workshopsSectionLabel = "Workshops and Events"
 
-	dataDirectoryLabel = "Find World Bank Data Resources"
-
 	dataDirectoryPageLabel = "WB Data Directory"
 
 	dataLeadsLabel = "Data Lab Leads Network"
@@ -26,6 +24,8 @@ assetDir = "static/assets"
 	DataLabRequestFormTracker = "https://worldbankgroup-my.sharepoint.com/:x:/r/personal/ccalderon2_worldbank_org/Documents/Data%20Lab%20Website/data%20lab%20request%20for%20support.xlsx?d=w75ce08e79cb1454d9378b2cc10bea9bb&csf=1&web=1&e=pGdpMC"
 	DataLabDirectory = "https://worldbankgroup-my.sharepoint.com/personal/ccalderon2_worldbank_org/_layouts/15/Doc.aspx?sourcedoc={cbf7d856-fbbb-45e7-ad75-de5446aea8d0}&action=embedview&ActiveCell='WebDisplay'!A1&Item='WebDisplay'!A1%3AE120&wdDownloadButton=True&wdInConfigurator=True"
 
+	DataSkillsCertificationSkillMatrix = "https://worldbankgroup.sharepoint.com/:w:/r/sites/DataLabFiles/Shared%20Documents/Data%20Skills%20Certification%20Program/2024-04-03%20Skill%20Matrix.docx?d=w2a2383e463014549912af8f07ea9e396&csf=1&web=1&e=hvyYeE https://worldbankgroup.sharepoint.com/:w:/s/DataLabFiles/EeSDIyoBY0lFkSr48H6p45YBSeTzv_75FeBX_FHl69Lttg?e=28DjLg"
+	DataSkillsCertificationTechnicalWorkingGroup = "https://worldbankgroup.sharepoint.com/:w:/r/sites/DataLabFiles/Shared%20Documents/Data%20Skills%20Certification%20Program/2024-03%20Technical%20Working%20Group.docx?d=w644d847b2c5d40228dff32b682e8a47f&csf=1&web=1&e=R7PLFM https://worldbankgroup.sharepoint.com/:w:/s/DataLabFiles/EXuETWRdLCJAjf8ytoLopH8BWovMT4BOksScigS3wgn08Q?e=n4rWsu"
 
 [module]
 	[hugoVersion]
