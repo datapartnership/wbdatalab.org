@@ -231,8 +231,9 @@
 
   .text-container {
     font-size: 1.1rem;
-    margin-right: auto;
-    width: 99%;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    width: 95%;
     
     p {
       text-align: center;
@@ -323,7 +324,7 @@
         background-color: $blue;
         color: $white;
         margin-top: 2rem;
-        max-width: 300px;
+        max-width: 500px;
         text-align: center;
         padding: 0.5rem;
       }
