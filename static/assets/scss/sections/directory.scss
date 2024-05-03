@@ -6,11 +6,11 @@
     display: flex;
     justify-content: space-evenly;
     margin: 0 auto;
-    padding-bottom: 4rem;
+    padding-bottom: 0.2rem;
   }
 
-  h1,
-  h2 {
+  h2, h3, h4 {
+    color: $light-gray;
     line-height: 1.2em;
     text-transform: uppercase;
   }
@@ -23,7 +23,18 @@
   }
 
   img {
+    display: flex; 
+    padding: 5rem;
     width: 100%;
+  }
+
+  a {
+    color: $light-gray;
+  }
+
+  p {
+    color: $white;
+    font-weight: 800;
   }
 
   .data-directory-hero {
@@ -31,71 +42,36 @@
     display: flex;
     flex-direction: column;
     padding: 3rem 0;
-
-    .data-map {
-      min-height: 100px;
-      width: 200px;
-    }
-
-    .one {
-      background: center/100% url("/img/data-directory/data-map-1.gif") $brighter-orange
-        no-repeat;
-
-        &:hover {
-          background: center/100% url("/img/data-directory/hover1.gif") 
-          no-repeat;
-        }
-    }
-
-    .two {
-      background: center/100% url("/img/data-directory/data-map-2.gif") $brighter-orange
-        no-repeat;
-
-        &:hover {
-          background: center/100% url("/img/data-directory/hover2.gif") 
-          no-repeat;
-        }
-    }
-
-    .three {
-      background: center/100% url("/img/data-directory/data-map-3.gif") $brighter-orange
-        no-repeat;
-
-        &:hover {
-          background: center/100% url("/img/data-directory/hover3.gif") 
-          no-repeat;
-        }
-    }
-
-    .four {
-      background: center/100% url("/img/data-directory/data-map-4.gif") $brighter-orange
-        no-repeat;
-
-        &:hover {
-          background: center/100% url("/img/data-directory/hover4.gif") 
-          no-repeat;
-        }
-    }
   }
 
   p {
     color: $black;
     display: flex;
     flex-direction: column;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 300;
     margin-top: 0;
-    min-width: 500px;
+    min-height: 200px;
+    min-width: 600px;
     width: 90%;
   }
 
   .directory-text {
-    max-height: 700px;
-    max-width: 636px;
+    max-height: 2500;
+    max-width: 1000px;
   }
 
   .directory-heading {
+    margin-right: 7rem;
     margin-bottom: 3rem;
+
+    p {
+      display: flex;
+      flex-direction: column;
+      font-size: 1.3rem;
+      font-weight: 250;
+      color:$light-gray;
+    }
   }
 
   .data-resources-directory {
@@ -124,32 +100,77 @@
     background-color: $blue;
     padding: 5rem;
 
-    h2 {
+    h2, h3 {
       font-size: 1.75rem;
       font-weight: 700;
       margin: 0;
       min-width: 415px;
-      width: 30%;
+      width: 90%;
     }
 
     p {
       color: $white;
       display: flex;
       flex-direction: column;
-      font-size: 1.4rem;
-      font-weight: 300;
+      font-size: 1.5rem;
+      font-weight: 200;
       margin-top: 0;
-      min-width: 500px;
-      width: 30%;
+      width: 90%;
     }
 
     a {
       color: $white;
       background-color: $brighter-orange;
-      margin-top: 2rem;
-      max-width: 300px;
+      margin-top: 1rem;
+      max-width: 500px;
       text-align: center;
-      padding: 0.5rem;
+      padding: 2rem;
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+    }
+  }
+  
+  .data-science-career {
+    background-color: $teal;
+    padding: 5rem;
+  
+    h2, h3 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0;
+      min-width: 415px;
+      width: 90%;
+    }
+  
+    p {
+      color: $white;
+      display: flex;
+      flex-direction: column;
+      font-size: 1.5rem;
+      font-weight: 200;
+      margin-top: 0;
+      width: 90%;
+    }
+  
+    a {
+      color: $white;
+      background-color: $brighter-orange;
+      margin-top: 1rem;
+      max-width: 500px;
+      text-align: center;
+      padding: 2rem;
+    }
+  
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
     }
   }
 

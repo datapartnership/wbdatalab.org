@@ -78,12 +78,16 @@
     h2,
     p {
       color: $black;
+      width: 50%;
     }
 
     .skill-badges-info {
       font-size: 1.4rem;
       line-height: 1.9rem;
     }
+      a {
+        color: $brighter-orange;
+      }
 
     p {
       margin-top: 2rem;

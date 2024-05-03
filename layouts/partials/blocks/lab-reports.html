@@ -8,11 +8,18 @@
       <ul class="lab-reports-container">
         {{ with .Site.GetPage "section" "lab-reports" }}
         {{- range .Pages -}}
-        <li class="card">
-          <a href="{{- .Params.File_path -}}">
-            <h3>{{- .Summary -}}</h3>
-          </a>
+        <div class="flex-column">
+        <li>
+        <div class="card">
+          <div class="icon-container">
+          </div>
+          <div class="text-container">
+            <a href="{{- .Params.File_path -}}">
+              <h3>{{- .Summary -}}</h3>
+            </a>
+          </div>
         </li>
+        </div>
         {{- end -}}
         {{- end -}}
       </ul>

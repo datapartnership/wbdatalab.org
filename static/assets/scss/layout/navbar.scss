@@ -1,7 +1,7 @@
 .navbar {
   color: $white;
-  margin-top: 2rem;
-  padding: .75rem;
+  margin-top: 0rem;
+  padding: .1rem;
   text-align: center;
   transition: padding-top 0.3s, padding-bottom 0.3s;
   width: 100vw;
@@ -19,7 +19,7 @@
       line-height: 2rem;
     }
     .wb-logo {
-      max-width: 260px;
+      max-width:  250px;
     }
 
     .navbar-end {
@@ -31,15 +31,15 @@
 
       .nav-links {
         display: flex;
-        align-items: center;
+        align-items: left;
         flex-direction: column;
         justify-content: center;
 
         a {
           color: $text-blue;
           display: block;
-          font-size: 1.2rem;
-          font-weight: 400;
+          font-size: 1.3rem;
+          font-weight: 500;
           margin: 0.25rem;
           max-width: 150px;
           padding: 0.25rem 1rem;
@@ -97,6 +97,10 @@
       }
     }
   }
+}
+
+#mainNav {
+  top: 0;
 }
 
 @media (min-width: 768px) {

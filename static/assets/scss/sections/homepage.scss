@@ -43,7 +43,7 @@
       font-size: 1.4rem;
       color: #fff;
       margin-top: 1.5rem;
-      max-width: 225px;
+      max-width: 350px;
       padding: 1rem;
       text-align: center;
     }
@@ -144,12 +144,15 @@
       .container {
         align-items: center;
         flex-direction: row;
-        max-width: 1150px;
-        justify-content: space-around;
-
+        max-width: 1000px;
+        justify-content: left;
+      
         .scheduled-date {
           align-items: baseline;
           display: flex;
+          color: antiquewhite;
+          padding-left: 2rem;
+          padding-right: 2rem;
         }
       }
     }
@@ -187,9 +190,13 @@
       display: flex;
       flex-direction: column;
       justify-content: space-around;
+      
+      h2 {
+        font-weight: bold;
+      }
 
       li {
-        margin: auto 0.65rem 0;
+        margin: auto 0.7rem 0;
       }
     }
 
@@ -199,13 +206,15 @@
       color: $dark-gray;
       display: flex;
       flex-direction: column;
-      list-style: none;
       max-height: 400px;
-      min-height: 350px;
-      max-width: 400px;
-      min-width: 400px;
-      padding: 1rem;
+      min-height: 400px;
+      max-width: 340px;
+      min-width: 340px;
     }
+
+      img {
+        width: 250px;
+      }
   }
 
   .icon-container {
@@ -215,15 +224,21 @@
 
     .badges {
       max-width: 140px;
+      min-height: 190px;
       width: 100%;
     }
   }
 
   .text-container {
     font-size: 1.1rem;
-    margin-right: auto;
-    width: 97%;
-
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    width: 95%;
+    
+    p {
+      text-align: center;
+      font-weight: 300;
+    }
     h3 {
       text-align: center;
     }
@@ -278,8 +293,7 @@
     justify-content: space-between;
     margin: 0 auto;
 
-    h2,
-    h3 {
+    h2, h3 {
       line-height: 1.2em;
       margin: 0 0 0.5rem;
       text-transform: uppercase;
@@ -310,7 +324,7 @@
         background-color: $blue;
         color: $white;
         margin-top: 2rem;
-        max-width: 300px;
+        max-width: 500px;
         text-align: center;
         padding: 0.5rem;
       }
