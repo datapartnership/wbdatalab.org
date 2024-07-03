@@ -22,22 +22,26 @@
       <section class="section-cards">
         <div class="container">
           <ul class="cards-container">
-              {{ range .Pages }}  
-              <div class="flex-column"> 
-                <li>
-                    <div class="card">
-                      <a href="{{ .Params.href }}">
-                        <h3>{{ .Params.title }}</h3>
-                        <div class="text-container">
-                          <p></p>
-                        </div>
-                      </a>
-                      <img src="{{- .Site.Params.BaseURL -}}/img/data-lab/DataLab_Symbol.svg">
+            {{ range $index, $element := .Pages }}  
+            <div class="flex-column"> 
+              <li>
+                <div class="card">
+                  <a href="{{ $element.Params.href }}">
+                    <h4>{{ $element.Params.title }}</h4>
+                    <div class="text-container">
+                      <p></p>
                     </div>
-                </li>
-              </div>  
-              {{ end }}
+                  </a>
+                  <img src="{{- $.Site.Params.BaseURL -}}/img/data-lab/DataLab_Symbol.svg">
+                </div>
+              </li>
+            </div>  
+            {{ if eq (mod (add $index 1) 4) 0 }}
+              </ul><ul class="cards-container">
+            {{ end }}
+            {{ end }}
+          </ul>
         </div>
       </section>
-  </div>
+    </div>
 </section>
