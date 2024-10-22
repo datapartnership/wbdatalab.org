@@ -1,21 +1,110 @@
-.coming-soon-page {
+.coming-soon {
   background-color: $light-gray;
-  padding: 50px 0;
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
 
   .coming-soon-hero {
-    display: flex;
-    justify-content: center;
     align-items: center;
-    min-height: 300px;
-    
-    .info-container {
-      text-align: center;
+    display: flex;
+    margin-bottom: 5rem;
+  }
+
+  .info-container {
+    width: 100%;
+
+    .sub-header {
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      max-width: 600px;
     }
 
-    .coming-soon-description {
-      font-size: 1.4rem;
+    p {
       color: $dark-gray;
+      font-size: 1.4rem;
       line-height: 1.9rem;
+      margin: 0;
+      margin-bottom: 1.5rem;
+      width: 80%;
+    }
+  }
+
+  .coming-soon-badge {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  h1,
+  h2 {
+    margin: 0;
+  }
+
+  h1 {
+    color: $dark-green;
+    font-size: 3rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+  }
+}
+
+.lab-leads-directory {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: $blue;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-top: 2.5rem;
+}
+
+iframe {
+  margin: 1rem 0 3.5rem;
+  min-height: 500px;
+  width: 100%;
+}
+
+@media (max-width: 1200px) {
+  .coming-soon {
+    .coming-soon-hero {
+      padding-top: 2.5rem;
+
+      .info-container {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .coming-soon-description {
+        font-size: 1.2rem;
+      }
+
+      .coming-soon-badge {
+        max-width: 300px;
+      }
+    }
+  }
+}
+
+@media (max-width: 993px) {
+  .coming-soon {
+    .coming-soon-hero {
+      flex-direction: column-reverse;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .coming-soon {
+    .info-container {
+      flex-direction: column;
+
+      .coming-soon-description {
+        margin-bottom: 3rem;
+      }
     }
   }
 }
