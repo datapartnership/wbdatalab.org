@@ -31,5 +31,10 @@
 		{{- partial "list-partials/data-resources-directory-list-page.html" . -}}
 	{{- end -}}
 
+	{{/*  Coming Soon Page Layout  */}}
+	{{ if eq .Page.Section "coming-soon" }}
+		{{- partial "list-partials/coming-soon-page.html" . -}}
+	{{- end -}}
+
 	</main>
 {{- end -}} 
