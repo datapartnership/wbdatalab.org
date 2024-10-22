@@ -1,0 +1,21 @@
+.coming-soon-page {
+  background-color: $light-gray;
+  padding: 50px 0;
+
+  .coming-soon-hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    
+    .info-container {
+      text-align: center;
+    }
+
+    .coming-soon-description {
+      font-size: 1.4rem;
+      color: $dark-gray;
+      line-height: 1.9rem;
+    }
+  }
+}
